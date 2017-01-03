@@ -7,9 +7,9 @@ Also, there is a Favorite button addded to save movie details in SQLite database
 ![Screenshot1]({{site.baseurl}}/https://github.com/prakashpun/UdacityPopularMoviesStage2/blob/master/Screenshot_20170103-152115.png)
 
 ![Screenshot2]({{site.baseurl}}/https://github.com/prakashpun/UdacityPopularMoviesStage2/blob/master/Screenshot_20170103-152141.png)
+
 Following libraries are used in this project 
 
 - http://jakewharton.github.io/butterknife ;
 - https://github.com/square/picasso ;
 - https://github.com/square/retrofit
-
